@@ -1,0 +1,49 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* Navbar Styles */
+.form-inline button {
+    color: #333;
+    border: 2px solid #fff;
+}
+
+.fab {
+    color: #fff;
+}
+
+.fa-facebook:hover {
+    color: blue;
+    transition: all .4s ease;
+}
+
+.fa-instagram:hover {
+    background: -webkit-linear-gradient(#fdf497, #fdf497, #fd5949,#d6249f,#285AEB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all .4s ease;
+}
+
+.fa-twitter:hover {
+    color: lightskyblue;
+    transition: all .4s ease;
+}
+
+.fa-dribbble:hover {
+    color: #d6249f;
+    transition: all .4s ease;
+}
+
+.fa-github-alt:hover {
+    color: #666;
+    transition: all .4s ease;
+}
+
+/* Table */
+.table {
+    margin-top: 3em;
+    margin-bottom: 5em;
+}
